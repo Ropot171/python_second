@@ -1,0 +1,22 @@
+{
+  "data": {
+    "items": [
+      {
+        "name": "name 1",
+        "id": 123456,
+        "description": "Описание 1"
+      },
+      {
+        "name": "name 2",
+        "id": 654321,
+        "description": "Описание 2"
+      },
+      {
+        "name": "name 3",
+        "id": 987654,
+        "description": "Описание 3"
+      }
+    ]
+  },
+  "total": 3
+}
