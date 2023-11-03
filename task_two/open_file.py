@@ -16,7 +16,4 @@ def role_list():
         valuesList.append(Role(name=item['name'], id=item['id'], description=item['description']))
     return valuesList
 
-# как из словаря вытащить список айтемс по ключу
-#внутри аппенд я должна добавлять обьект класса Role с заполнеными атрибутами из словарей внутри списка ^ из 1го
-#пункта
 
